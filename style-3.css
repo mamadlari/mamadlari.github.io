@@ -1,0 +1,74 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #202124;
+}
+body #back {
+  text-align: end;
+  margin: 10px 20px;
+}
+body #back a {
+  color: white;
+  text-decoration: none;
+}
+body #back a:hover {
+  text-decoration: underline;
+}
+body #AS {
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 50px;
+  color: #f28b82;
+}
+body #AS label {
+  text-align: initial;
+}
+body #fullcadr {
+  margin-top: 90px;
+}
+body #form {
+  display: flex;
+  flex-wrap: wrap;
+  color: #969ba1;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding: 20px;
+  margin-top: 10px;
+  margin-left: 40px;
+}
+body #form form label {
+  text-align: initial;
+}
+body #submit {
+  margin-left: 480px;
+}
+body #submit input {
+  padding: 3px 13px;
+  background-color: #8ab4f8;
+  border: 1px solid #8ab4f8;
+  border-radius: 4px;
+}
+body #submit input:hover {
+  background-color: #a2c1f1;
+}
+body .input {
+  margin-bottom: 30px;
+  display: flex;
+  text-align: center;
+}
+body .input label {
+  width: 200px;
+}
+body .text {
+  color: white;
+  display: flex;
+  width: 400px;
+  height: 25px;
+  background-color: #202124;
+  border: 1px solid #5c5f5e;
+}
+body .hint {
+  text-align: initial;
+  margin-left: 30px;
+}
+
+/*# sourceMappingURL=style-3.css.map */

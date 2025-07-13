@@ -1,0 +1,67 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #202124;
+}
+body div label {
+  color: white;
+  font-weight: bold;
+  font-size: 70px;
+}
+body #fullcadr {
+  margin-top: 180px;
+}
+body #go {
+  text-align: end;
+  margin: 20px 10px;
+}
+body #go a {
+  margin-left: 20px;
+  color: white;
+  text-decoration: none;
+}
+body #go a:hover {
+  text-decoration: underline;
+}
+body #span2 {
+  margin-left: 120px;
+}
+body #Googleimages {
+  margin-left: 670px;
+}
+body #flexbox {
+  display: flex;
+  flex-wrap: wrap;
+}
+body #form {
+  margin-top: 30px;
+  padding-left: 500px;
+}
+body #text {
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #4d5156;
+  padding: 10px 20px;
+  border: 2px solid #4d5156;
+  border-radius: 40px;
+  width: 50%;
+}
+body #text:active {
+  background-color: #bfbfbf;
+}
+body #submit {
+  margin-left: 110px;
+  margin-top: 30px;
+  padding: 8px 16px;
+  background-color: #303134;
+  border: 1px solid #303134;
+  border-radius: 4px;
+  color: white;
+  font-size: 14px;
+  text-align: center;
+}
+body #submit:hover {
+  border-color: #9e9e9e;
+}
+
+/*# sourceMappingURL=style-2.css.map */
